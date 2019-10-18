@@ -5,6 +5,6 @@ package Jenkins.Aula20192.HugoSilva;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return true;
+        return false;
     }
 }
